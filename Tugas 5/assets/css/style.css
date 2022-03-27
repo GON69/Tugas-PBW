@@ -1,0 +1,25 @@
+body {
+    background-image: url('../img/langit.jpg');
+    background-size: auto; 
+}
+
+.header{
+    text-align: justify;
+    font-style: oblique;
+    margin-bottom: 1rem;
+}
+
+.row{
+    background-color: white;
+    justify-content: left;
+    padding: 20px;
+    border-radius: 1rem;
+    margin-bottom: 1rem;
+}
+
+.table{
+    background-color: white;
+    padding: 20px;
+    border-radius: 1rem;
+}
+

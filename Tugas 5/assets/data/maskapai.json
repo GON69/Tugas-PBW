@@ -1,0 +1,50 @@
+[
+    {
+        "Maskapai": "Citilink",
+        "Asal_penerbangan": "Mahmud Badaruddin II (PLM)",
+        "tujuan_penerbangan": "Sultan Iskandar Muda (BTJ)",
+        "Harga_tiket": "6899000",
+        "Pajak": 80000,
+        "Total_harga": 6979000
+    },
+    {
+        "Maskapai": "Nam air",
+        "Asal_penerbangan": "Inanwatan (INX)",
+        "tujuan_penerbangan": "Ngurai Rai (DPS)",
+        "Harga_tiket": "7999000",
+        "Pajak": 175000,
+        "Total_harga": 8174000
+    },
+    {
+        "Maskapai": "Lion air",
+        "Asal_penerbangan": "Halim Perdanakusuma (HLP)",
+        "tujuan_penerbangan": "Hasanuddin (UPG)",
+        "Harga_tiket": "4500000",
+        "Pajak": 100000,
+        "Total_harga": 4600000
+    },
+    {
+        "Maskapai": "Lion air",
+        "Asal_penerbangan": "Husein Sastranegara (BDO)",
+        "tujuan_penerbangan": "Sultan Iskandar Muda (BTJ)",
+        "Harga_tiket": "4999000",
+        "Pajak": 100000,
+        "Total_harga": 5099000
+    },
+    {
+        "Maskapai": "Nam air",
+        "Asal_penerbangan": "Sultan Iskandar Muda (BTJ)",
+        "tujuan_penerbangan": "Ngurai Rai (DPS)",
+        "Harga_tiket": "8599000",
+        "Pajak": 145000,
+        "Total_harga": 8744000
+    },
+    {
+        "Maskapai": "Garuda",
+        "Asal_penerbangan": "Ngurai Rai (DPS)",
+        "tujuan_penerbangan": "Sultan Iskandar Muda (BTJ)",
+        "Harga_tiket": "10201000",
+        "Pajak": 145000,
+        "Total_harga": 10346000
+    }
+]
