@@ -45,3 +45,5 @@ $bk->getQtyCode();
 
 
 echo $bk->getQtyCode();    
+
+?>
